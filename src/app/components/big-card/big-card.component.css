@@ -1,0 +1,25 @@
+.container__big-card {
+  width: 400px;
+  height: 40rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin: 0 1rem;
+}
+
+.big-card__picture > img {
+  width: 100%;
+  min-width: 400px;
+}
+
+.big-card__title > a {
+  font-size: 2rem;
+  text-decoration: none;
+  font-weigth: bold;
+}
+
+.big-card__description > p {
+  color: grey;
+}
+

@@ -1,0 +1,27 @@
+.container__small-card{
+  display: flex;
+  width: 500px;
+  gap: 1.5rem;
+}
+
+.title__small-card{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title__small-card > a{
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+.image__small-card{
+  width: 40%;
+}
+.image__small-card > img{
+  width: 100%;
+}
+
+hr{
+  margin: 0.5rem 0 0.8rem 0;
+}

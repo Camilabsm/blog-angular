@@ -1,0 +1,9 @@
+.socials__menu-bar{
+  display:flex;
+  gap: 1rem;
+  list-style: none;
+}
+
+.socials__menu-bar > li >a{
+  text-decoration: none;
+}
