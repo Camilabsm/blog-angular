@@ -1,11 +1,10 @@
 .container__big-card {
   width: 400px;
-  height: 40rem;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   gap: 0.5rem;
-  margin: 0 1rem;
+  margin: 1rem;
 }
 
 .big-card__picture > img {
